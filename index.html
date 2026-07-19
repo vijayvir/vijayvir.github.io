@@ -1,3 +1,11 @@
+
+Claude finished the response
+
+Strategized website link placement near header section
+Strategized website link placement near header section
+Added a clickable link to your site right in the header/contact line:
+
+html
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
     <head>
@@ -27,21 +35,339 @@
                 <li>Programming</li>
                 <li>Computer Science</li>
             </ul>
-       
+            <p class="head">Skills</p>
+            <ul>
+                <li> Swift and Objective-C </li>
+                <li>Xcode</li>
+                <li>Firebase, mqtt, MYSQL</li>
+            </ul>
             <p class="head">Education</p>
             <ul>
                 <a href="https://antfirelabs.com">
                     <li>Schooling in Non medical from CBSE </li>
                 </a>
                 <a href="https://antfirelabs.com">
-                    <li> B.tech in Computer science and Engineering  </li>
+                    <li> B.tech in Computer science and Engineering from PTU  </li>
                 </a>
             </ul>
-
-        
+            <p class="head">Experience</p>
+            <ul>
+                <li>iOS Developer</li>
+                <li>iOS Developer</li>
+                <li>Senior iOS Developer</li>
+                <ul>
+                  <li> Write efficient, maintainable and reusable code prioritizing privacy and security </li>  
+                  <li>Simultaneously manage multiple projects and meet many strict deadlines </li>  
+                  <li> Write technical documents, user guides and support documentation</li>  
+                </ul>
+            </ul>
         </div>
         <div class="right"></div>
         <div id="footer">
             <h2 id="name">Vijayvir Singh</h2></div>
     </body>
 </html>
+Just the header link — the "Contact us" line already had one. Let me know if you wanted it somewhere else too, like the footer.
+
+Resume
+Vijayvir Singh
+M# 7347200037 Email: virvijay37@gmail.com | [Antfirelabs.com](https://antfirelabs.com/)
+Skilled and efficient iOS Developer with 5 years of experience creating unique and modern applications available in the App Store.
+Need a solution developed? [Contact us at Antfirelabs.com](https://antfirelabs.com/)
+
+Interests
+
+Farming
+Photography
+Design
+Programming
+Computer Science
+Education
+
+[Schooling in Non medical from CBSE](https://antfirelabs.com/)
+[B.tech in Computer science and Engineering](https://antfirelabs.com/) .. make more interserting this page m show view of antfirelabs.com
+Show more
+
+Architected self-contained resume matching modern dark aesthetic
+Architected self-contained resume matching modern dark aesthetic
+Their site's a dark-themed JS app (theme color 
+#0a0a0a), so I designed the resume to match that branding — dark background, clean modern layout, all self-contained so it doesn't depend on the external stylesheet anymore.
+
+
+Orchestrated enhanced HTML markup for resume presentation
+Orchestrated enhanced HTML markup for resume presentation
+I gave it a dark theme matching Ant Fire Labs' branding (
+#0a0a0a background, orange accent), skills/interests as pill tags, cleaner section dividers, and a small "site card" near the bottom styled like a browser preview of antfirelabs.com since I can't embed a live screenshot of a JS-rendered site directly. It's a standalone file now — no external stylesheet needed. Open it and let me know if you want the accent color changed or the site preview swapped for an actual screenshot.
+
+
+Resume
+Code · HTML 
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+
+Resume · HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Vijayvir Singh — Resume</title>
+<style>
+  :root{
+    --bg: #0a0a0a;
+    --bg-card: #141414;
+    --accent: #ff5a1f;
+    --text: #f2f2f2;
+    --text-dim: #a3a3a3;
+    --border: #262626;
+  }
+  * { box-sizing: border-box; }
+  body{
+    margin:0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .wrap{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 48px 32px 64px;
+  }
+  .top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 20px;
+    margin-bottom: 28px;
+  }
+  h1{
+    margin:0;
+    font-size: 2.2rem;
+    letter-spacing: -0.5px;
+  }
+  .role{
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-top: 4px;
+  }
+  .contact{
+    text-align:right;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+  }
+  .contact a{
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+  }
+  .contact a:hover{ color: var(--accent); }
+  .intro{
+    font-size: 1.05rem;
+    color: var(--text-dim);
+    margin-bottom: 28px;
+  }
+  .cta{
+    background: linear-gradient(135deg, #1a1a1a, #0f0f0f);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    padding: 18px 22px;
+    border-radius: 8px;
+    margin-bottom: 36px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .cta span{ font-weight:600; }
+  .cta a{
+    background: var(--accent);
+    color: #0a0a0a;
+    font-weight:700;
+    text-decoration:none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    white-space:nowrap;
+    transition: opacity 0.2s;
+  }
+  .cta a:hover{ opacity:0.85; }
+  section{ margin-bottom: 32px; }
+  h2{
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+  .tags{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .tag{
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.88rem;
+    color: var(--text-dim);
+  }
+  ul.plain{ list-style:none; margin:0; padding:0; }
+  ul.plain li{
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  ul.plain li:last-child{ border-bottom:none; }
+  ul.plain a{
+    color: var(--text);
+    text-decoration:none;
+    font-weight:600;
+  }
+  ul.plain a:hover{ color: var(--accent); }
+  .exp-title{ font-weight:600; }
+  .sub{ margin: 10px 0 0 0; padding-left: 18px; color: var(--text-dim); font-size:0.93rem; }
+  .sub li{ margin-bottom:6px; }
+  .site-preview{
+    margin-top: 16px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow:hidden;
+    background: #000;
+  }
+  .site-preview .bar{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    padding: 10px 14px;
+    background: #161616;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+  }
+  .dot{ width:8px; height:8px; border-radius:50%; background:#333; }
+  .site-preview .body{
+    padding: 28px 24px;
+    text-align:center;
+  }
+  .site-preview .body h3{
+    margin:0 0 6px;
+    font-size: 1.4rem;
+    background: linear-gradient(90deg, var(--accent), #ffb199);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .site-preview .body p{
+    margin:0;
+    color: var(--text-dim);
+    font-size: 0.9rem;
+  }
+  footer{
+    text-align:center;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+ 
+  <div class="top">
+    <div>
+      <h1>Vijayvir Singh</h1>
+      <div class="role">iOS Developer</div>
+    </div>
+    <div class="contact">
+      M# 7347200037<br>
+      virvijay37@gmail.com<br>
+      <a href="https://antfirelabs.com" target="_blank" rel="noopener">Antfirelabs.com</a>
+    </div>
+  </div>
+ 
+  <p class="intro">Skilled and efficient iOS Developer with 5 years of experience creating unique and modern applications available in the App Store.</p>
+ 
+  <div class="cta">
+    <span>Need a solution developed?</span>
+    <a href="https://antfirelabs.com" target="_blank" rel="noopener">Contact Ant Fire Labs →</a>
+  </div>
+ 
+  <section>
+    <h2>Interests</h2>
+    <div class="tags">
+      <span class="tag">Farming</span>
+      <span class="tag">Photography</span>
+      <span class="tag">Design</span>
+      <span class="tag">Programming</span>
+      <span class="tag">Computer Science</span>
+    </div>
+  </section>
+ 
+  <section>
+    <h2>Skills</h2>
+    <div class="tags">
+      <span class="tag">Swift</span>
+      <span class="tag">Objective-C</span>
+      <span class="tag">Xcode</span>
+      <span class="tag">Firebase</span>
+      <span class="tag">MQTT</span>
+      <span class="tag">MySQL</span>
+    </div>
+  </section>
+ 
+  <section>
+    <h2>Education</h2>
+    <ul class="plain">
+      <li><a href="https://antfirelabs.com" target="_blank" rel="noopener">Schooling in Non-Medical, CBSE</a></li>
+      <li><a href="https://antfirelabs.com" target="_blank" rel="noopener">B.Tech in Computer Science &amp; Engineering</a></li>
+    </ul>
+  </section>
+ 
+  <section>
+    <h2>Experience</h2>
+    <ul class="plain">
+      <li><span class="exp-title">iOS Developer</span></li>
+      <li><span class="exp-title">iOS Developer</span></li>
+      <li>
+        <span class="exp-title">Senior iOS Developer</span>
+        <ul class="sub">
+          <li>Write efficient, maintainable and reusable code prioritizing privacy and security</li>
+          <li>Simultaneously manage multiple projects and meet many strict deadlines</li>
+          <li>Write technical documents, user guides and support documentation</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+ 
+  <section>
+    <h2>Antfirelabs.com</h2>
+    <div class="site-preview">
+      <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span>&nbsp; antfirelabs.com</div>
+      <div class="body">
+        <h3>Ant Fire Labs</h3>
+        <p>IT Solutions that Expand Your Vision</p>
+      </div>
+    </div>
+  </section>
+ 
+  <footer>Vijayvir Singh &middot; Ant Fire Labs</footer>
+ 
+</div>
+</body>
+</html>
+ 
