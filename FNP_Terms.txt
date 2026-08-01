@@ -1,1 +1,153 @@
-FNP_Terms.txt
+FARM NOTES PLUS — TERMS OF USE
+Last updated: 1 August 2026
+
+Farm Notes Plus (the "App") is developed and published by Ant Fire Labs
+("we", "us", "our"). By downloading, installing, or using the App you
+agree to be bound by these Terms of Use ("Terms"). If you do not agree,
+do not use the App.
+
+1. ELIGIBILITY
+You must be at least 13 years old (or the minimum age required in your
+country) to use Farm Notes Plus. If you are using the App on behalf of
+a farm, business or organisation, you represent that you are authorised
+to accept these Terms on their behalf.
+
+2. DESCRIPTION OF THE APP
+Farm Notes Plus is a personal record-keeping tool for farms. It helps
+you track fields, crop cycles, activities, workers, attendance, ledger
+entries, reminders and related farm data. The App does NOT provide
+agronomic, financial, legal or professional advice. Any advice-like
+content (e.g. suggested crop durations, weather forecasts) is provided
+"as-is" for reference only.
+
+3. YOUR ACCOUNT & DATA
+All data you enter into the App is your own. We do not claim ownership
+of your farm data. Depending on your settings, your data is stored:
+  (a) locally on your device, or
+  (b) in your personal iCloud account (Farm Cloud subscribers only,
+      when iCloud Sync is enabled in Settings).
+You are solely responsible for keeping your Apple ID sign-in and
+device secure.
+
+4. BACKUP IS YOUR RESPONSIBILITY — DATA LOSS DISCLAIMER
+IMPORTANT: WE ARE NOT RESPONSIBLE FOR ANY LOSS, CORRUPTION, DELETION,
+OR INACCESSIBILITY OF YOUR DATA, FOR ANY REASON WHATSOEVER, INCLUDING
+BUT NOT LIMITED TO:
+  • device damage, loss, theft, reset, or replacement;
+  • iCloud, Apple ID, or CloudKit outages, quota limits, or account
+    changes;
+  • operating-system updates, crashes, or storage corruption;
+  • uninstalling, reinstalling or migrating the App;
+  • sync conflicts, force re-uploads, or actions taken from other
+    devices signed into the same iCloud account;
+  • intentional or accidental "Erase All Data" / "Reset CloudKit Store"
+    actions taken by you;
+  • bugs, defects, or unforeseen errors in the App or any third-party
+    software.
+
+YOU MUST TAKE YOUR OWN BACKUPS. We strongly recommend that you:
+  • Export important records regularly (CSV / PDF from within the App);
+  • Print hard copies of critical ledgers, attendance sheets and
+    reports;
+  • Keep independent digital backups outside of this App (email,
+    external drive, cloud drive of your choice, etc.).
+
+To the maximum extent permitted by law, Ant Fire Labs shall have no
+liability whatsoever for data loss, and you agree not to hold us
+responsible for any resulting financial, operational, or personal loss.
+
+5. SUBSCRIPTIONS ("FARM CLOUD" / PREMIUM)
+Farm Cloud is offered as an auto-renewing subscription (monthly or
+yearly) through the Apple App Store.
+  • Payment is charged to your Apple ID at confirmation of purchase.
+  • Subscription auto-renews unless cancelled at least 24 hours before
+    the end of the current period.
+  • Renewal is charged within 24 hours of the current period ending.
+  • You can manage or cancel your subscription any time in the App
+    Store (Settings → Apple ID → Subscriptions).
+  • No refunds are provided by us for partial periods. Refund requests
+    must be made through Apple.
+  • Downgrading between plans takes effect at the end of the current
+    billing period per Apple's rules.
+
+6. FREE TIER, ADS, AND LIMITS
+Users who are not subscribed may see banner, interstitial, or app-open
+advertisements served by Google AdMob. Certain features (unlimited
+weather, iCloud sync, ad-free experience) are limited or reserved for
+Farm Cloud subscribers.
+
+7. ACCEPTABLE USE
+You agree not to:
+  • use the App for any illegal purpose or in violation of local law;
+  • attempt to reverse-engineer, decompile, or tamper with the App;
+  • use the App to store, transmit, or share content that is unlawful,
+    harmful, or infringes anyone's rights;
+  • overload, disrupt, or attempt to gain unauthorised access to any
+    server, service, or network used by the App.
+
+8. INTELLECTUAL PROPERTY
+The App (including its code, design, icons, artwork, and branding) is
+owned by Ant Fire Labs and its licensors. You are granted a limited,
+non-exclusive, non-transferable licence to use the App on Apple devices
+you own or control, subject to Apple's standard App Store terms.
+
+9. THIRD-PARTY SERVICES
+The App uses services provided by third parties, including:
+  • Apple StoreKit (for subscriptions);
+  • Apple CloudKit / iCloud (for sync — subscribers only);
+  • Google AdMob (for advertising — free users only);
+  • Apple WeatherKit / system location services (for weather data).
+Your use of those services is also governed by their own terms and
+privacy policies. We are not responsible for outages, changes, or
+issues arising from these third-party services.
+
+10. AVAILABILITY & CHANGES
+We may modify, suspend, or discontinue any part of the App at any time
+without notice. We may also update these Terms; continued use after
+changes constitutes acceptance of the revised Terms.
+
+11. DISCLAIMER OF WARRANTIES
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+ACCURACY, OR UNINTERRUPTED SERVICE.
+
+12. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANT FIRE LABS AND ITS
+AFFILIATES, DIRECTORS, EMPLOYEES, OR AGENTS SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+INCLUDING LOSS OF PROFITS, LOSS OF DATA, CROP LOSS, BUSINESS LOSS, OR
+PERSONAL INJURY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE
+APP. OUR TOTAL LIABILITY, IF ANY, IS LIMITED TO THE AMOUNT YOU PAID
+US FOR THE APP IN THE PAST TWELVE (12) MONTHS.
+
+13. INDEMNITY
+You agree to indemnify and hold Ant Fire Labs harmless from any
+claim, damage, cost, or expense (including reasonable legal fees)
+arising from your misuse of the App or violation of these Terms.
+
+14. TERMINATION
+We may suspend or terminate your access to the App at any time if you
+violate these Terms. You can stop using the App at any time by
+deleting it from your device.
+
+15. APPLE END USER LICENSE AGREEMENT
+Your use of the App is also governed by Apple's Standard End User
+Licence Agreement:
+  https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Apple is not a party to these Terms and has no obligation to provide
+maintenance or support for the App.
+
+16. GOVERNING LAW
+These Terms are governed by the laws of India, without regard to its
+conflict of law rules. Any disputes shall be resolved in the competent
+courts located in Ropar / Chandigarh, India, unless local mandatory
+consumer protection laws provide otherwise.
+
+17. CONTACT
+Ant Fire Labs
+Email:  virvijay37@gmail.com
+Web:    https://antfirelabs.com
+
+By continuing to use Farm Notes Plus you acknowledge that you have
+read, understood, and agreed to these Terms of Use.
