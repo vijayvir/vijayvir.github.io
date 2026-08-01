@@ -1,1 +1,144 @@
-FNP_PrivacyPolicy
+FARM NOTES PLUS — PRIVACY POLICY
+Last updated: 1 August 2026
+
+Ant Fire Labs ("we", "us", "our") respects your privacy. This Privacy
+Policy explains what information Farm Notes Plus (the "App") collects,
+how it is used, and the choices you have.
+
+1. SUMMARY (IN PLAIN LANGUAGE)
+  • Your farm data (fields, crops, activities, workers, ledger,
+    reminders, photos) is stored ON YOUR DEVICE.
+  • If you are a Farm Cloud subscriber AND you turn on iCloud Sync in
+    Settings, your data is also stored in YOUR OWN iCloud account. We
+    (Ant Fire Labs) never see, read, or store your farm data on our
+    servers. It stays between you and Apple's iCloud service.
+  • The App does NOT ask you to create an account with us. There is
+    no email/password sign-up.
+  • Free users see ads served by Google AdMob. AdMob may collect
+    limited device identifiers to serve those ads.
+  • Weather is fetched using your device's approximate location — only
+    when you grant location permission.
+
+2. INFORMATION WE COLLECT
+
+2.1 Information you create in the App
+  All the farm data you enter (fields, crop cycles, activities, photos,
+  workers, attendance records, ledger entries, reminders, notes) stays
+  on your device by default. It is either:
+    (a) local-only, or
+    (b) synchronised via your personal iCloud account (Farm Cloud
+        subscribers who have enabled iCloud Sync).
+  We do NOT collect, upload, read, or copy this data to any server
+  operated by us.
+
+2.2 Device permissions the App may request
+  • Notifications — used only to fire your own reminders locally.
+  • Location — used to fetch weather for your field's coordinates.
+    You can revoke this any time in iOS Settings.
+  • Photo Library — used only if you attach a photo to an activity.
+    Selection happens through Apple's system picker; we don't scan
+    or index your library.
+
+2.3 In-app purchases / subscriptions
+  Subscriptions are processed by Apple through StoreKit. Apple shares
+  a receipt / entitlement status with the App so we know whether you
+  are a Farm Cloud subscriber. We do NOT see your payment method,
+  Apple ID email, or billing details.
+
+2.4 Advertising (free users only)
+  Non-subscribers may see banner, interstitial, and app-open
+  advertisements delivered by Google AdMob. AdMob may collect standard
+  advertising identifiers (e.g. IDFA if you allow tracking, IP address,
+  device model, coarse language / country) and may show personalised
+  ads if you have granted Apple's App Tracking Transparency prompt.
+  You can opt out any time by disabling tracking for Farm Notes Plus
+  in iOS Settings → Privacy & Security → Tracking, and/or by
+  subscribing to Farm Cloud to remove ads entirely.
+  See Google's policy: https://policies.google.com/privacy
+
+2.5 Diagnostic / crash data
+  If you have Apple's "Share App Analytics" enabled in iOS Settings,
+  Apple may share anonymised crash logs and usage counts with us.
+  We do not tie this data to any individual user. We do NOT operate
+  any custom analytics SDK.
+
+3. HOW WE USE INFORMATION
+We use limited information only to:
+  • deliver features you asked for (weather, reminders, sync);
+  • verify your subscription entitlement;
+  • serve ads (free tier);
+  • fix bugs from anonymised crash reports.
+
+We do NOT sell your personal information. We do NOT profile you for
+marketing.
+
+4. iCLOUD / CLOUDKIT (SUBSCRIBERS ONLY)
+When Farm Cloud sync is enabled, farm data is stored in Apple's
+CloudKit inside your personal iCloud container. Only you (and devices
+signed into the same Apple ID) can access it. Apple's privacy policy
+applies to that storage: https://www.apple.com/legal/privacy/
+
+If you cancel your subscription, sync stops, but your local data on
+each device remains untouched. You can delete iCloud data any time
+from Settings → Danger Zone → "Erase iCloud Data on All Devices".
+
+5. YOUR CHOICES
+  • Turn OFF iCloud sync from Settings any time.
+  • Revoke Notifications / Location / Photos permissions in iOS
+    Settings.
+  • Reset onboarding, re-view permissions, or replay the app tour
+    from Settings.
+  • Erase your data locally OR from iCloud from the Danger Zone in
+    Settings.
+  • Cancel your subscription any time in App Store → Subscriptions.
+
+6. DATA RETENTION & BACKUPS (IMPORTANT)
+We do not retain your farm data on our servers because we do not
+store it on our servers. Your data lives on your device and (if
+enabled) your iCloud.
+
+WE ARE NOT RESPONSIBLE FOR DATA LOSS. Data may be lost due to device
+damage, iCloud outages, Apple ID changes, uninstalls, sync conflicts,
+or bugs. YOU should:
+  • Export important records regularly (CSV / PDF from inside the
+    App);
+  • Print hard copies of critical ledgers, attendance sheets, and
+    reports;
+  • Keep independent backups outside of this App.
+See our Terms of Use for the full data-loss disclaimer.
+
+7. CHILDREN
+Farm Notes Plus is not directed to children under 13. We do not
+knowingly collect personal information from children. If you believe
+a child has provided information to us, contact us and we will delete
+it promptly.
+
+8. INTERNATIONAL USE
+Farm Notes Plus is available worldwide via the Apple App Store. Data
+storage locations depend on Apple's data centres for iCloud and are
+governed by Apple's own agreements.
+
+9. THIRD-PARTY LINKS
+The App may link to external websites (e.g. Apple Standard EULA,
+Google privacy policy, Ant Fire Labs website). We are not responsible
+for the privacy practices of those sites.
+
+10. CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time. The "Last
+updated" date at the top will reflect the latest revision. Continued
+use of the App after changes means you accept the updated policy.
+
+11. YOUR RIGHTS
+Depending on your jurisdiction (e.g. GDPR, DPDP Act, CCPA) you may
+have rights to access, correct, or delete personal information we
+hold about you. Because we do not maintain your farm data on our
+servers, most of these rights can be exercised directly from within
+the App (Settings → Danger Zone → Erase All Data / Erase iCloud
+Data). For anything else, contact us at the address below.
+
+12. CONTACT
+Ant Fire Labs
+Email:  virvijay37@gmail.com
+Web:    https://antfirelabs.com
+
+Thank you for trusting Farm Notes Plus with your farm records.
