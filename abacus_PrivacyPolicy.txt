@@ -1,0 +1,144 @@
+# Privacy Policy — Abacus+
+
+**Effective Date:** 20 August 2026
+**Last Updated:** 20 August 2026
+
+Abacus+ ("we", "our", "the app") is developed by Vijayvir Singh 
+(Antfire Labs). This Privacy Policy explains what data we collect, 
+how we use it, and your choices regarding it.
+
+By using Abacus+, you agree to the practices described here.
+
+---
+
+## 1. Information We Collect
+
+### a) Data stored locally on your device
+The app stores the following on your device only, using Apple's 
+UserDefaults / iCloud Key-Value system. This data never leaves your 
+device unless you explicitly enable iCloud sync via your Apple ID.
+
+- Level progress and unlocked levels
+- Daily challenge streak & completion history
+- Timed Drill scores and leaderboard entries
+- Selected theme, sound, and haptic preferences
+- Purchase records (coffee count, ad-free status)
+
+You can erase all of this by uninstalling the app.
+
+### b) Information collected by third parties
+
+**Google AdMob (advertising)**
+Abacus+ displays banner and occasional interstitial advertisements 
+served by Google AdMob. AdMob may collect:
+- Device advertising identifier (IDFA, only if you allow tracking)
+- General device information (model, iOS version, language, region)
+- IP address (for ad targeting and fraud prevention)
+- Approximate location (country/region level, derived from IP)
+- Interactions with ads (impressions, clicks)
+
+Google's use of this data is governed by their own privacy policy:
+<https://policies.google.com/technologies/partner-sites>
+<https://policies.google.com/privacy>
+
+You can opt out of personalized advertising at any time via
+iOS Settings → Privacy & Security → Apple Advertising → Personalized Ads (off).
+
+**Apple StoreKit (in-app purchases)**
+When you make an in-app purchase (coffee tips or Remove Ads), the 
+transaction is processed by Apple. We receive only a receipt 
+confirming the purchase — we never see your Apple ID, payment 
+method, or personal billing details. Apple's privacy policy applies:
+<https://www.apple.com/legal/privacy/>
+
+---
+
+## 2. How We Use Information
+
+- To provide app functionality (save progress, personalize experience)
+- To display advertising that keeps the app free (via AdMob)
+- To process in-app purchases (via Apple)
+- To improve app stability (crash reports via Apple)
+
+We do **not** sell, rent, or share your personal information with 
+third parties for their own marketing purposes.
+
+---
+
+## 3. Children's Privacy
+
+Abacus+ is a general-audience educational app suitable for all ages. 
+We do not knowingly collect personally identifiable information from 
+children under 13 (or under 16 in the EU).
+
+If you believe a child has used the app and information was 
+inadvertently collected by our advertising partner, please contact 
+us and we will take reasonable steps to have it removed.
+
+Parents are encouraged to enable **Screen Time → Content & Privacy 
+Restrictions** to limit in-app purchases and advertising on 
+children's devices.
+
+---
+
+## 4. Your Choices & Rights
+
+Depending on your region (EU, UK, California, India, etc.) you may 
+have the following rights:
+
+- **Access** — request a copy of any data we hold about you (we hold 
+  none directly; app data lives on your device)
+- **Deletion** — uninstall the app to erase local data; opt out of 
+  personalized advertising via iOS Settings
+- **Objection / Withdrawal** — disable App Tracking Transparency, 
+  disable personalized ads, or stop using the app
+
+To exercise any right, email **virvijay37@gmail.com** with the 
+subject "Privacy Request — Abacus+".
+
+---
+
+## 5. Data Retention
+
+Local device data is retained until you uninstall the app or reset 
+your device. Advertising and analytics data collected by Google is 
+retained according to Google's own retention policies (see link above).
+
+---
+
+## 6. Security
+
+Because Abacus+ stores data only on your device using Apple's 
+sandboxed storage, your data is protected by iOS device-level 
+security (passcode, Face ID, Touch ID, hardware encryption).
+
+No method of electronic storage is 100% secure; we cannot guarantee 
+absolute security.
+
+---
+
+## 7. International Users
+
+Abacus+ is available worldwide. By using the app, you consent to any 
+data processing that occurs in your country or in the servers 
+operated by Apple and Google, which may be located outside your 
+country of residence.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this policy from time to time. Material changes will 
+be reflected by updating the "Last Updated" date at the top. Please 
+review this page periodically.
+
+---
+
+## 9. Contact
+
+**Vijayvir Singh (Antfire Labs)**
+Email: **virvijay37@gmail.com**
+Website: **https://antfirelabs.com**
+
+For App Store or purchase issues, contact Apple Support:
+<https://support.apple.com/billing>
