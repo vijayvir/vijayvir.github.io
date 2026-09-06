@@ -1,1 +1,130 @@
 
+GPS TUNES — PRIVACY POLICY
+
+Last updated: September 6, 2026
+Developer: AntFire Labs
+Contact: virvijay37@gmail.com
+
+AntFire Labs ("we", "us", "our") built GPS Tunes ("the App") with your
+privacy in mind. This Privacy Policy explains what data the App accesses,
+how it is used, and the choices you have.
+
+--------------------------------------------------------------------------
+1. SUMMARY
+--------------------------------------------------------------------------
+  * Your LOCATION is used ONLY on your device to detect geofence entry
+    and exit. It is not sent to us.
+  * Your VOICE RECORDINGS stay ONLY on your device. We never receive them.
+  * Your APPLE MUSIC playback is handled by Apple's frameworks; we do not
+    receive your listening history.
+  * Non-Pro users see ads served by GOOGLE ADMOB, which processes
+    advertising identifiers according to your consent and system settings.
+  * SUBSCRIPTION STATUS is handled by Apple's StoreKit; we do not store
+    payment details.
+  * GEOFENCE DATA is stored locally on your device via SwiftData. We do
+    not sync it to a server.
+
+--------------------------------------------------------------------------
+2. DATA WE ACCESS ON YOUR DEVICE
+--------------------------------------------------------------------------
+
+  Data                       Purpose                          Leaves device?
+  -----------------------    ------------------------------   --------------
+  Location (Always)          Detect region entry/exit for     No
+                             automatic playback
+  Microphone                 Record voice memos you create    No
+  Apple Music library        Play songs/playlists attached    No (Apple)
+                             to regions
+  Notifications              Alert you when entering a region No
+  Geofence data              Store your regions and playback  No (SwiftData
+                             preferences                       on-device)
+
+--------------------------------------------------------------------------
+3. THIRD-PARTY SERVICES
+--------------------------------------------------------------------------
+
+GOOGLE ADMOB (non-Pro users only)
+We use Google AdMob to serve advertising. AdMob may collect information
+such as your device's advertising identifier (IDFA — only if you granted
+App Tracking Transparency permission), IP address, general location
+(city-level), and interaction with ads.
+
+Where required (EU / EEA / UK / Switzerland), we present the Google User
+Messaging Platform (UMP) consent form the first time the App loads ads.
+You may reset your ad-consent choice from Settings on your device.
+
+Google privacy policy:      https://policies.google.com/privacy
+Manage ad personalization:  https://support.google.com/ads/answer/2662922
+
+APPLE SERVICES
+The App uses Apple frameworks including MusicKit, CoreLocation, StoreKit,
+and User Notifications. These are governed by Apple's Privacy Policy:
+https://www.apple.com/legal/privacy/
+
+STOREKIT 2 (subscriptions)
+Purchases are processed entirely by Apple. We only receive an entitlement
+flag telling us whether your Pro subscription is active. We do not receive
+your Apple ID, name, or payment method.
+
+--------------------------------------------------------------------------
+4. WHAT WE DO NOT DO
+--------------------------------------------------------------------------
+  * We do not operate a user account system — no email/password is
+    required to use the App.
+  * We do not sell or rent your personal data.
+  * We do not upload your location, recordings, listening history, or
+    geofence data to any server.
+  * We do not use analytics SDKs that transmit personal data to us.
+
+--------------------------------------------------------------------------
+5. CHILDREN'S PRIVACY
+--------------------------------------------------------------------------
+GPS Tunes is not directed to children under 13. We do not knowingly collect
+data from children under 13. If you believe your child has provided data to
+us, please contact us at virvijay37@gmail.com.
+
+--------------------------------------------------------------------------
+6. YOUR RIGHTS
+--------------------------------------------------------------------------
+Depending on where you live, you may have rights to access, correct,
+delete, or restrict the processing of your personal data. Because we do
+not maintain a server-side account for you, most of these rights can be
+exercised directly on your device:
+
+  * Delete all data — uninstall the App.
+  * Revoke location, microphone, or notification permissions —
+    Settings → Privacy.
+  * Reset your ad-consent choice — Settings → GPS Tunes (if available in
+    your region).
+  * Manage or cancel your subscription — Settings → Apple ID →
+    Subscriptions.
+
+For any additional requests, email virvijay37@gmail.com.
+
+--------------------------------------------------------------------------
+7. DATA RETENTION
+--------------------------------------------------------------------------
+Because we do not receive your data on our servers, retention is entirely
+under your control. Deleting the App removes all local data. Backups you
+have made to iCloud or iTunes may retain a copy — consult Apple's
+documentation.
+
+--------------------------------------------------------------------------
+8. INTERNATIONAL USERS
+--------------------------------------------------------------------------
+If you use the App outside your country of residence, be aware that the
+App runs entirely on your device; no cross-border transfers of data by us
+occur. Third-party services (Google, Apple) may transfer data
+internationally per their own privacy policies.
+
+--------------------------------------------------------------------------
+9. CHANGES TO THIS POLICY
+--------------------------------------------------------------------------
+We may update this Privacy Policy from time to time. The "Last updated"
+date reflects the most recent revision. Material changes will be
+communicated in-app where reasonable.
+
+--------------------------------------------------------------------------
+10. CONTACT
+--------------------------------------------------------------------------
+Questions, requests, or complaints? Email us at virvijay37@gmail.com.
