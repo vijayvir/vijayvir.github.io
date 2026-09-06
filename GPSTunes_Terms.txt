@@ -1,1 +1,163 @@
+GPS TUNES — TERMS OF USE
+
+Last updated: September 6, 2026
+Developer: AntFire Labs
+Contact: virvijay37@gmail.com
+
+Welcome to GPS Tunes ("the App"), developed and operated by AntFire Labs
+("we", "us", "our"). By downloading, installing, or using the App you agree
+to these Terms of Use ("Terms"). If you do not agree, please do not use the
+App.
+
+--------------------------------------------------------------------------
+1. DESCRIPTION OF THE SERVICE
+--------------------------------------------------------------------------
+GPS Tunes lets you attach music, playlists, and voice recordings to
+real-world locations ("geofences") on your iPhone. When you enter a
+geofence, the App can automatically play the attached media using Apple
+Music or your local voice recordings.
+
+--------------------------------------------------------------------------
+2. ELIGIBILITY
+--------------------------------------------------------------------------
+You must be at least 13 years old (or the minimum digital-consent age in
+your country, whichever is higher) to use the App. By using GPS Tunes you
+represent that you meet this requirement.
+
+--------------------------------------------------------------------------
+3. LICENSE
+--------------------------------------------------------------------------
+We grant you a personal, non-exclusive, non-transferable, revocable license
+to use the App on any Apple-branded device you own or control, subject to
+the Apple Media Services Terms and Conditions and these Terms.
+
+You may not:
+  * Copy, modify, reverse-engineer, decompile, or create derivative works
+    of the App.
+  * Rent, lease, lend, resell, or sublicense the App.
+  * Use the App to violate any law, third-party rights, or the terms of
+    any third-party service (including Apple Music).
+  * Circumvent the free-tier limits, subscription checks, or advertising
+    displays.
+
+--------------------------------------------------------------------------
+4. SUBSCRIPTIONS & IN-APP PURCHASES
+--------------------------------------------------------------------------
+GPS Tunes offers optional auto-renewable subscriptions ("Pro") that unlock
+unlimited geofences and remove advertising. Pricing is displayed inside the
+App at the time of purchase.
+
+  * Billing — Payment is charged to your Apple ID at confirmation of
+    purchase.
+  * Renewal — Your subscription renews automatically for the same period
+    at the then-current price unless auto-renew is turned off at least
+    24 hours before the end of the current period.
+  * Managing / Cancelling — You can manage or cancel subscriptions in
+    your device's Settings → Apple ID → Subscriptions. Deleting the App
+    does not cancel your subscription.
+  * Free Trial — Any free-trial portion is forfeited when you purchase a
+    subscription during the trial period.
+  * Refunds — All refund requests are handled by Apple according to the
+    App Store Refund Policy. We cannot issue refunds directly.
+
+--------------------------------------------------------------------------
+5. LOCATION SERVICES
+--------------------------------------------------------------------------
+The App requests "Always" location permission in order to detect region
+entry/exit while backgrounded. You may revoke this permission at any time
+in Settings → Privacy → Location Services. Without "Always" permission,
+automatic playback at geofences will not work.
+
+--------------------------------------------------------------------------
+6. APPLE MUSIC
+--------------------------------------------------------------------------
+Playback of songs and playlists requires an active Apple Music subscription
+and authorization for the App to access your Apple Music library. GPS Tunes
+is not affiliated with, endorsed by, or sponsored by Apple Inc. Your use of
+Apple Music through the App is governed by Apple's terms.
+
+--------------------------------------------------------------------------
+7. RECORDINGS
+--------------------------------------------------------------------------
+Voice recordings you make using the App are stored locally on your device
+only. We do not upload, transmit, or process your recordings on any server.
+
+--------------------------------------------------------------------------
+8. ADVERTISING
+--------------------------------------------------------------------------
+Non-Pro users see advertisements provided by Google AdMob. Before ads are
+loaded, we present Google's User Messaging Platform (UMP) consent form when
+required (e.g., in the EU/EEA/UK). See our Privacy Policy for details.
+
+--------------------------------------------------------------------------
+9. USER CONTENT
+--------------------------------------------------------------------------
+You are solely responsible for the media you associate with geofences and
+the voice memos you record. You represent that you have all necessary
+rights to the content you use with the App.
+
+--------------------------------------------------------------------------
+10. DISCLAIMERS
+--------------------------------------------------------------------------
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED. We do not guarantee uninterrupted or error-free
+operation, accuracy of location detection, or availability of Apple Music
+content.
+
+Do not use the App in a manner that distracts you from safe operation of a
+motor vehicle or from your surroundings. You are responsible for your own
+safety and awareness at all times.
+
+--------------------------------------------------------------------------
+11. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANTFIRE LABS SHALL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR IN CONNECTION
+WITH YOUR USE OF THE APP. Our aggregate liability for any claim arising
+from these Terms shall not exceed the amount you paid us in the 12 months
+prior to the claim.
+
+--------------------------------------------------------------------------
+12. INDEMNIFICATION
+--------------------------------------------------------------------------
+You agree to indemnify and hold AntFire Labs harmless from any claims,
+damages, or expenses arising from your misuse of the App or violation of
+these Terms.
+
+--------------------------------------------------------------------------
+13. TERMINATION
+--------------------------------------------------------------------------
+We may suspend or terminate your access to the App at any time for
+violation of these Terms. You may stop using the App and delete it at any
+time.
+
+--------------------------------------------------------------------------
+14. CHANGES TO THESE TERMS
+--------------------------------------------------------------------------
+We may update these Terms from time to time. Material changes will be
+reflected in the "Last updated" date at the top and, where reasonable,
+communicated in-app. Continued use of the App after changes constitutes
+acceptance.
+
+--------------------------------------------------------------------------
+15. GOVERNING LAW
+--------------------------------------------------------------------------
+These Terms are governed by the laws of your country of residence to the
+extent required. Otherwise, they are governed by the laws of the
+jurisdiction where AntFire Labs is established, without regard to
+conflict-of-laws principles.
+
+--------------------------------------------------------------------------
+16. APPLE END-USER LICENSE
+--------------------------------------------------------------------------
+You acknowledge that these Terms are between you and AntFire Labs only,
+not with Apple. Apple is not responsible for the App or its content. Apple
+is a third-party beneficiary of these Terms and may enforce them against
+you.
+
+--------------------------------------------------------------------------
+17. CONTACT
+--------------------------------------------------------------------------
+Questions or concerns? Email us at virvijay37@gmail.com
 
